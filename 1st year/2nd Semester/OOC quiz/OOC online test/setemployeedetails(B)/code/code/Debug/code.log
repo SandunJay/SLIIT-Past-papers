@@ -1,0 +1,3 @@
+﻿  employee.cpp
+D:\SLIIT\OOC\OOC online test\setemployeedetails(B)\code\code\employee.cpp(32,17): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  code.vcxproj -> D:\SLIIT\OOC\OOC online test\setemployeedetails(B)\code\Debug\code.exe
