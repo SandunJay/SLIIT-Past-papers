@@ -1,6 +1,0 @@
-﻿  ConsoleApplication1.cpp
-D:\SLIIT\OOC\OOC online test\setstudentdetails(P) ooc spm isdm marks display\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(45,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\SLIIT\OOC\OOC online test\setstudentdetails(P) ooc spm isdm marks display\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(46,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\SLIIT\OOC\OOC online test\setstudentdetails(P) ooc spm isdm marks display\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\SLIIT\OOC\OOC online test\setstudentdetails(P) ooc spm isdm marks display\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(91,12): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
-  ConsoleApplication1.vcxproj -> D:\SLIIT\OOC\OOC online test\setstudentdetails(P) ooc spm isdm marks display\ConsoleApplication1\Debug\ConsoleApplication1.exe
